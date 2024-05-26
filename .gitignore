@@ -31,4 +31,8 @@
 *.out
 *.app
 
+<<<<<<< HEAD
 ignore.txt.txt
+=======
+ignore_file.txt
+>>>>>>> c5f81789dd013cddc0cde63d6272cbacd68c4101
